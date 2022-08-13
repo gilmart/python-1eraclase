@@ -30,6 +30,15 @@ print(f'El numero 1 es: {numero1} El numero 2 es: {numero2}')
 #OPERADORES ARITMETICOS
 #(+ - * / %)
 
+
+#OPERADORES ARITMETICOS
+#(+ - * / %)
+
+
+#OPERADORES ARITMETICOS
+#(+ - * / %)
+
+
 suma = numero1 + numero2
 
 print(f'y la suma es: {suma}')
